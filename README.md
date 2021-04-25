@@ -17,4 +17,5 @@ docker run -it --rm -p 8888:8888 -v $(pwd):/home/jovyan/work jupyter/pyspark-not
 
 ## Referências
 
-- [Quickstart — PySpark 3.1.1 documentation](https://spark.apache.org/docs/latest/api/python/getting_started/quickstart.html)
+- [Quickstart — PySpark documentation](https://spark.apache.org/docs/latest/api/python/getting_started/quickstart.html)
+- [Overview - Spark Documentation](https://spark.apache.org/docs/latest/)
